@@ -18,43 +18,43 @@ avdmanager create avd --force --name Nexus5 --abi google_apis_playstore/x86 --pa
 Git commands:
 ------------
 - Do git init to initiate git local
-git init
+"git init"
 
 - Add a new remote repo:
-git remote add origin https://github.com/HarikrishnanVK/wdio_browserstack
+"git remote add origin https://github.com/HarikrishnanVK/wdio_browserstack"
 
 - To verify the origin
-git remote -v
+"git remote -v"
 
 - To sync with added repo
-git fetch
+"git fetch"
 
 - To confirm the remote branch 
-git branch -r
+"git branch -r"
 
 - To confirm the local branch
-git branch -a
+"git branch -a"
 
 - To confirm the current branch we are in
-git branch
+"git branch"
 
 - To rename the branch to main (as github/gitlab usually have their default branch name as main)
-git branch -m main
+"git branch -m main"
 
 - To add all files to remote 
-git add .
+"git add ."
 
 - To make first commit 
-git commit -m "my first commit"
+"git commit -m "my first commit""
 
 - Git pull to confirm the remote changes sync with local ignoring histories
-git pull --allow-unrelated-histories
+"git pull --allow-unrelated-histories"
 
 - Make your first push to main branch
-git push origin -u main
+"git push origin -u main"
 
 - To add git ignore and reinitialize the base
-Add .gitignore file in local from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+"Add .gitignore file in local from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore"
 
 git rm -r --cached .
 git add .
