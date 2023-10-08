@@ -4,11 +4,15 @@ Codecept repo consists of selenium, playwright and appium helpers.
 Steps to setup appium:
 ----------------------
 set up env: https://secabit.medium.com/how-to-run-android-emulator-without-android-studio-88a3bb1d80eb
+
 avdmanager create avd -n Pixel_4_API_30 -k "system-images;android-30;google_apis_playstore;x86"
+
 emulator -avd Pixel_4_API_30
+
 sdkmanager "system-images;android-30;google_apis_playstore;x86" "platforms;android-30" "platforms;android-30" "extras;intel;Hardware_Accelerated_Execution_Manager"
 
 avdmanager create avd -n Pixel_4_API_30 -k "system-images;android-30;google_apis_playstore;x86"
+
 avdmanager create avd --force --name Nexus5 --abi google_apis_playstore/x86 --package 'system-images;android-30;google_apis_playstore;x86' --device "Nexus 5"
 
 Git commands:
@@ -51,6 +55,7 @@ git push origin -u main
 
 - To add git ignore and reinitialize the base
 Add .gitignore file in local from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
 git rm -r --cached .
 git add .
 git commit -am "Remove ignored files"
