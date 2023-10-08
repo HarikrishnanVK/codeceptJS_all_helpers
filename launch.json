@@ -1,0 +1,7 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "codeceptjs",
+    "args": ["run", "--grep", "@your_test_tag"],
+    "program": "${workspaceFolder}//node_modules/codeceptjs/bin/codecept.js"
+  }

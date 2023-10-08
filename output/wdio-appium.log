@@ -1,0 +1,20 @@
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"deviceName":"Pixel_4_API_30","browserName":"chrome"},"firstMatch":[{}]},"desiredCapabilities":{"deviceName":"Pixel_4_API_30","browserName":"chrome"}}[39m
+[debug] [35m[HTTP][39m No route found for /wd/hub/session
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[33m404[39m [90m31 ms - 211[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"deviceName":"Pixel_4_API_30","browserName":"chrome"},"firstMatch":[{}]},"desiredCapabilities":{"deviceName":"Pixel_4_API_30","browserName":"chrome"}}[39m
+[debug] [35m[HTTP][39m No route found for /wd/hub/session
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[33m404[39m [90m31 ms - 211[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"deviceName":"Pixel_4_API_30","browserName":"chrome"},"firstMatch":[{}]},"desiredCapabilities":{"deviceName":"Pixel_4_API_30","browserName":"chrome"}}[39m
+[debug] [35m[HTTP][39m No route found for /wd/hub/session
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[33m404[39m [90m2 ms - 211[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"deviceName":"Pixel_4_API_30","browserName":"chrome"},"firstMatch":[{}]},"desiredCapabilities":{"deviceName":"Pixel_4_API_30","browserName":"chrome"}}[39m
+[debug] [35m[HTTP][39m No route found for /wd/hub/session
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[33m404[39m [90m2 ms - 211[39m
+[35m[HTTP][39m [90m[39m
